@@ -93,6 +93,10 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ### A Place on Earth?
 @css[fragment]("A Place on Earth" is the SOMEWHERE, where everything happens!)
 ---
+### A Place on Earth?
+> “I believe that the community - in the fullest sense: a place and all its creatures - is the smallest unit of health and that to speak of the health of an isolated individual is a contradiction in terms. (pg. 146, Health is Membership)”
+> Wendell Berry, [The Art of the Commonplace: The Agrarian Essays](https://books.google.com/books/about/The_Art_of_the_Commonplace.html?id=K5j43sEr6xAC)
+
 ### GIS and Remote Sensing 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
@@ -109,36 +113,26 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
 +++
-##### Our Scenario...
-- A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
-- The chemical spill will affect all residents within 1 mile of the factory
-- But! Because the chemical flows downhill, houses that are on higher ground are safe!
-- Who do we need to evacuate?
+@title[remote sensing basics]
+#### Remote Sensing
+> Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
+- [Lillesand et al., 2015](https://www.wiley.com/en-us/Remote+Sensing+and+Image+Interpretation%2C+7th+Edition-p-9781118343289)
+- What does that mean?? 
 +++
-@transition[fade]
-![Scenario 1](images/scenario-1.JPG | width=70)
+@title[measurement from distance]
+Hearing, seeing, smelling are all remote sensing, but here we focus on one kind: 
+Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.
 +++
-@transition[fade]
-- 1 mile buffer around site
-![Scenario 2](images/scenario-2.JPG | width=70)
+@title[remote sensing platforms]
+![RS platforms from space](images/satellites.JPG)
 +++
-@transition[fade]
-- select buildings with elevation < factory
-![Scenario 3](images/scenario-3.JPG | width=70)
+@title[remote sensing platforms]
+![RS platforms](images/platforms.JPG)
 +++
-@transition[fade]
-- select buildings with elevation > factory
-![Scenario 4](images/scenario-4.JPG | width=70)
-+++
-@transition[fade]
-- query land record to identify landowners for call list
-![Scenario 5](images/scenario-5.JPG | width=70)
+@title[remote sensing platforms]
+![RS applications](images/applications.JPG)
 ---
-#### Common GIS Applications
-##### Demographic Mapping/Social Sciences
-- Where are vulnerable populations located?
-- How do environmental hazards differential impact different social groups
-- Environmental Justice? 
+###Multidisciplinary Digital Mapping Initiatives
 +++
 @title[demographic mapping example]
 [Demographic Mapper](http://www.ulcgis.org/flexviewers/KIPDA_Map)
@@ -185,31 +179,13 @@ https://ejscreen.epa.gov/mapper/
 ##### 1,000 Uses for GIS
 There are literally thousands of ways to use GIS to answer questions, create new knowledge, and help people understand their world a little better!
 https://gisgeography.com/gis-applications-uses/ 
----
-@title[remote sensing basics]
-#### remote sensing
-> Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
-- Lillesand et al., 2008
-- What does that mean?? 
-+++
-@title[measurement from distance]
-Hearing, seeing, smelling are all remote sensing, but here we focus on one kind: 
-Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.
-+++
+
 @title[measurement from distance]
 Specifically, we will focus on observations of Earth’s land and water surfaces by means of reflected and emitted electromagnetic energy
 +++
 @title[measurement from distance]
 Remote sensing is an applied science and is a tool to help understand other fields such as ecology, climatology, geology, soil science and hydrology
-+++
-@title[remote sensing platforms]
-![RS platforms from space](images/satellites.JPG)
-+++
-@title[remote sensing platforms]
-![RS platforms](images/platforms.JPG)
-+++
-@title[remote sensing platforms]
-![RS applications](images/applications.JPG)
+
 ---
 @title[helpful links]
 ##### Some useful links
