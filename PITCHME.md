@@ -83,9 +83,11 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ),1967 is the central novel in the series
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg | width=50)
 +++
+**Jayber Crow**
+![](images/jayber.jpg)
 ### A Place on Earth?
 - Writing evokes a strong sense of place |
-- Land, and people's connection to it, is an essential part of the story... | 
+- Land, and people's connection to it, is an essential part of the story...| 
 @css[fragment](almost a character in its own right).
 +++
 ### A Place on Earth?
