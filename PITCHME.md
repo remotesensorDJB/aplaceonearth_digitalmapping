@@ -33,44 +33,59 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Support research (faculty and student)
 - Technical support to campus GIS users
 @ulend
----
++++
 @title[About Me]
 ### About Me
 - I make maps... 
 - Web mapping applications...| 
 - Wrangle spatial data... |
 - Create visualizations to tell a story about physical or social phenomena. |
---- 
++++
 **Everything from glaciers in South America...**
 ![glacier mapping](images/glaciers.PNG)
----
++++
 **To Bird Scooter usage in my hometown...**
 ![bird scooter map](images/birdmap.PNG) 
----
-**My training is in physical geography and geospatial technology...**
-**But increasingly work with folks outside my discipline** | 
++++
+- **My training is in physical geography and geospatial technology...**
+- **But increasingly I work with folks outside my discipline** | 
++++
+**Folks from...**
+- Urban Planning |
+- The humanities |
+- Engineering |
+- Biology |
+- Social Work |
+- Anthropology | 
+- And more...
++++
 #### Complete the following statement...
-> "Everything happens ..."
+> "Everything happens ..." |
 +++
-> "Everything happens SOMEWHERE!"
+> "Everything happens SOMEWHERE!" 
 +++
-#### Geography is...
+#### The Spatial Advantage
+- Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.|
+- Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries. | 
 +++
-#### Geography is...
-
-> @size[.6em](Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth’s surface and the human societies spread across it. They also examine how human culture interacts with the natural environment, and the way that locations and places can have an impact on people. Geography seeks to understand where things are found, why they are there, and how they develop and change over time. )
-- [National Geographic Society](https://www.nationalgeographic.org/encyclopedia/geography/)
-+++
-#### The spatial perspective
-- Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.
-- Spatial analysis is the framework we use to answer geographic questions
-- Geographic Information Systems (GIS) is the tool we use to do spatial analysis!
+### How can digital mapping initiatives enhance teaching, research, and engaged scholarship? 
 ---
-#### A Scenario!
-- A dangerous chemical spills from a local factory, threatening the surrounding neighborhoods!
-- The chemical spill will affect all residents within 1 mile of the factory
-- But! Because the chemical flows downhill, houses that are on higher ground are safe!
-- Who do we need to evacuate? 
+### A Place on Earth?
+**Does anyone recognize this guy?**
+![wendell berry](https://www.missioalliance.org/wp-content/uploads/2016/10/wendall-berry.jpg)
++++
+### A Place on Earth
+- Kentucky Author Wendell Berry |
+- Author, Professor, and Agronomist |
+- Writing evokes a strong **sense of place** |
+- Writes both fiction and non-fiction
+- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. 
+- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977)
++++
+### A Place on Earth
+- Port William series of novel and short stories
+- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) (1967) is the central novel in the series
+![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
 --- 
 #### what is gis? 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
