@@ -2,8 +2,8 @@
 A Place on Earth: 
 Scholarship through Digital Mapping Initiatives 
 -------------------------------
-### @fa[globe fa-5x]
-######Trinity University, November 27th, 2018
+### @fa[globe fa-4x]
+###### Trinity University, November 27th, 2018
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
