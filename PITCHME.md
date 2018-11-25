@@ -12,7 +12,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - A Place on Earth?
 - GIS and Remote Sensing Review
 - Multidisciplinary Digital Mapping Initiatives
-- Remote Sensing Basics
+
 ---
 @title[The Plan]
 #### The Plan
@@ -34,7 +34,13 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Technical support to campus GIS users
 @ulend
 ---
-
+@title[About Me]
+### About Me
+> I make maps... 
+> Web mapping applications... 
+> Wrangle spatial data...
+> Create visualizations to tell a story about physical or social phenomena.
+> 
 #### Complete the following statement...
 > "Everything happens ..."
 +++
