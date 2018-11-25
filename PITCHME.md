@@ -48,7 +48,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ![bird scooter map](images/birdmap.PNG) 
 +++
 @css[fragment](**My training is in physical geography and geospatial technology...**)
-- **But increasingly I work with folks outside my discipline** | 
+@css[fragment](**But increasingly I work with folks outside my discipline**) 
 +++
 **Folks from...**
 - Urban Planning |
@@ -60,13 +60,11 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - And more... |
 +++
 #### Complete the following statement...
-> "Everything happens ..." 
-+++
-> "Everything happens SOMEWHERE!" 
+@css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
 +++
 #### The Spatial Advantage
-- Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.|
-- Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries. | 
+@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.)
+@css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
 +++
 ### How can digital mapping initiatives enhance teaching, research, and engaged scholarship? 
 ---
@@ -77,7 +75,6 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ### A Place on Earth?
 - Kentucky Author Wendell Berry |
 - Author, Professor, and Agronomist |
-- Writing evokes a strong sense of place |
 - Writes both fiction and non-fiction |
 - Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
 - [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977) |
@@ -86,8 +83,15 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Port William series of novel and short stories
 - [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) (1967) is the central novel in the series
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
---- 
-#### what is gis? 
++++
+### A Place on Earth?
+- Writing evokes a strong sense of place |
+- Land, and people's connection to it, is an essential part of the story... | @css[fragment](almost a character in its own right).
++++
+### A Place on Earth?
+@css[fragment]("A Place on Earth" is the SOMEWHERE, where everything happens!)
+---
+### GIS and Remote Sensing 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 ###### -Environmental Research Systems Institute (ESRI)
 +++
