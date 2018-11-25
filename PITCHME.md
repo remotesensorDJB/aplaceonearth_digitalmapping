@@ -82,7 +82,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 ### A Place on Earth?
 - Port William series of novel and short stories
-- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ), 1967 is the central novel in the series
+- [*A Place on Earth*, 1967](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) is the central novel in the series
 
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
 +++
