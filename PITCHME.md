@@ -85,7 +85,8 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 ### A Place on Earth?
 - Writing evokes a strong sense of place |
-- Land, and people's connection to it, is an essential part of the story... | @css[fragment](almost a character in its own right).
+- Land, and people's connection to it, is an essential part of the story... | 
+@css[fragment](almost a character in its own right).
 +++
 ### A Place on Earth?
 @css[fragment]("A Place on Earth" is the SOMEWHERE, where everything happens!)
