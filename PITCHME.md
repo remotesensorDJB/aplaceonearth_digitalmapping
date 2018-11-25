@@ -47,7 +47,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 **To Bird Scooter usage in my hometown...**
 ![bird scooter map](images/birdmap.PNG) 
 +++
-- **My training is in physical geography and geospatial technology...**
+@css[fragment](**My training is in physical geography and geospatial technology...**)
 - **But increasingly I work with folks outside my discipline** | 
 +++
 **Folks from...**
@@ -57,10 +57,10 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Biology |
 - Social Work |
 - Anthropology | 
-- And more...
+- And more... |
 +++
 #### Complete the following statement...
-> "Everything happens ..." |
+> "Everything happens ..." 
 +++
 > "Everything happens SOMEWHERE!" 
 +++
@@ -74,15 +74,15 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 **Does anyone recognize this guy?**
 ![wendell berry](https://www.missioalliance.org/wp-content/uploads/2016/10/wendall-berry.jpg)
 +++
-### A Place on Earth
+### A Place on Earth?
 - Kentucky Author Wendell Berry |
 - Author, Professor, and Agronomist |
-- Writing evokes a strong **sense of place** |
-- Writes both fiction and non-fiction
-- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. 
-- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977)
+- Writing evokes a strong | **sense of place** |
+- Writes both fiction and non-fiction |
+- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
+- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977) |
 +++
-### A Place on Earth
+### A Place on Earth?
 - Port William series of novel and short stories
 - [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) (1967) is the central novel in the series
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
