@@ -20,7 +20,6 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - A Place on Earth?
 - GIS and Remote Sensing Review
 - Multidisciplinary Digital Mapping Initiatives
-- Remote Sensing Basics
 ---
 @title[About Me]
 ### About me...
