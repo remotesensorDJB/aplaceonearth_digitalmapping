@@ -76,11 +76,11 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Author, Professor, and Agronomist |
 - Writes both fiction and non-fiction |
 - Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
-- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC), 1977  |
+- [*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)  |
 +++
 ### A Place on Earth?
 - Port William series of novel and short stories
-- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ),1967 is the central novel in the series
+- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ), 1967 is the central novel in the series
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg | width=50)
 +++
 **Jayber Crow**
