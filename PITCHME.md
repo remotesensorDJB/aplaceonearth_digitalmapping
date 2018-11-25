@@ -35,10 +35,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 @title[About Me]
 ### About Me
-- I make maps... 
-- Web mapping applications...| 
-- Wrangle spatial data... |
-- Create visualizations to tell a story about physical or social phenomena. |
+@css[fragment](I make maps...)@css[fragment](and web mapping applications...@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations to tell a story about physical or social phenomena.)
 +++
 **Everything from glaciers in South America...**
 ![glacier mapping](images/glaciers.PNG)
@@ -47,24 +44,27 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ![bird scooter map](images/birdmap.PNG) 
 +++
 @css[fragment](**My training is in physical geography and geospatial technology...**)
-@css[fragment](**But increasingly I work with folks outside my discipline**) 
+
+@css[fragment](**but increasingly I work with folks outside my discipline**) 
 +++
 **Folks from...**
-- Urban Planning |
-- The humanities |
+- Urban planning |
+- Humanities |
 - Engineering |
 - Biology |
-- Social Work |
+- Social work |
 - Anthropology | 
 - And more... |
++++
+#### The Spatial Advantage
+@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY to understanding them.)
+
+@css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
 +++
 #### Complete the following statement...
 @css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
 +++
-#### The Spatial Advantage
-@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY in understanding the whole picture.)
-@css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
-+++
+
 ### How can digital mapping initiatives enhance teaching, research, and engaged scholarship? 
 ---
 ### A Place on Earth?
@@ -76,12 +76,12 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Author, Professor, and Agronomist |
 - Writes both fiction and non-fiction |
 - Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
-- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977) |
+- [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC), 1977  |
 +++
 ### A Place on Earth?
 - Port William series of novel and short stories
-- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) (1967) is the central novel in the series
-![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
+- [*A Place on Earth*](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ),1967 is the central novel in the series
+![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg | width=50)
 +++
 ### A Place on Earth?
 - Writing evokes a strong sense of place |
