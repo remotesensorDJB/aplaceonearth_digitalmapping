@@ -35,10 +35,10 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 @ulend
 ---
 @title[About Me]
-@snap[north-west]@box[text-orange span-80 fragment](I make maps...) 
-@snap[east]@box[text-orange span-80 fragment](Web mapping applications...) 
-@snap[west]@box[text-orange span-80 fragment](Wrangle spatial data...)
-@snap[south-east]@box[text-orange span-80 fragment](Create visualizations to tell a story about physical or social phenomena.)
+@snap[north-west]@box[text-orange span-80 fragment](I make maps...)@snapend 
+@snap[east]@box[text-orange span-80 fragment](Web mapping applications...)@snapend 
+@snap[west]@box[text-orange span-80 fragment](Wrangle spatial data...)@snapend
+@snap[south-east]@box[text-orange span-80 fragment](Create visualizations to tell a story about physical or social phenomena.)@snapend
 --- 
 #### Complete the following statement...
 > "Everything happens ..."
