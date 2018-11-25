@@ -75,8 +75,8 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Kentucky Author Wendell Berry |
 - Author, Professor, and Agronomist |
 - Writes both fiction and non-fiction |
-- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
-- [*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)  |
+- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc.| 
+- [*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)|
 +++
 ### A Place on Earth?
 - Port William series of novel and short stories
