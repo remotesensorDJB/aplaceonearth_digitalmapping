@@ -1,17 +1,41 @@
-@title[geospatial technologies]
-GIS and Geospatial Technologies 
+@title[A Place on Earth: Scholarship through Digital Mapping Initiatives]
+A Place on Earth: 
+Scholarship through Digital Mapping Initiatives 
 -------------------------------
 ### @fa[globe fa-5x]
+######Trinity University, November 27th, 2018
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
-@title[the plan]
-#### the plan
-- Everything happens..._________?
-- What's in a GIS?
+@title[The Plan]
+#### The Plan
+- About Me
+- A Place on Earth?
+- GIS and Remote Sensing Review
+- Multidisciplinary Digital Mapping Initiatives
 - Remote Sensing Basics
-- Geography @ UofL
 ---
+@title[The Plan]
+#### The Plan
+- **About Me**
+- A Place on Earth?
+- GIS and Remote Sensing Review
+- Multidisciplinary Digital Mapping Initiatives
+- Remote Sensing Basics
+---
+@title[About Me]
+### About me...
+
+@ul
+- Staff GIS Technology Consultant
+- University of Louisville Center for GIS
+- 15 Years in GIS/Mapping
+- Teach courses in GIS (including web mapping)
+- Support research (faculty and student)
+- Technical support to campus GIS users
+@ulend
+---
+
 #### Complete the following statement...
 > "Everything happens ..."
 +++
@@ -152,60 +176,6 @@ Remote sensing is an applied science and is a tool to help understand other fiel
 +++
 @title[remote sensing platforms]
 ![RS applications](images/applications.JPG)
----
-##### geography @ uofl
-- Do you love computers? 
-- Do you love graphics/art/design?
-- Do you love video games/vr?
-- Do you love nature/outdoors? 
-+++
-##### geography @ uofl
-##### you would LOVE geography!
-+++
-##### You will learn...
-- How to make maps
-- How to fly drones
-- How to analyze satellite imagery
-- How to code computer programs
-- How to build 3D models
-+++
-##### Degrees Offered
-- B.S. in Applied Geography
-  - Environmental Analysis
-  - Geospatial Technologies
-  - Human and Cultural Dynamics
-  - Urban Analysis 
-- Certificate in Geospatial Technologies
-+++
-### Projects you could be involved in!
-+++
-##### [WorldPop Population Modeling](http://www.worldpop.org.uk/)
-![WorldPop](images/worldpop.jpg)
-+++
-##### Urban Hydrology 
-![Urban Water Quality](images/urban_water.jpg)
-+++
-##### UAS and Stream Ecology
-![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
-+++
-##### [Climate Change Science](http://louisville.edu/artsandsciences/news/all/Mountain)
-![Mountain on a Glacier](images/mountain.jpeg)
-+++
-##### UAS Research in Africa
-![Africa Fieldwork](images/africa.jpg)
-+++
-##### [Chasing Tornados](http://louisville.edu/artsandsciences/news/all/storm-chasers-2018)
-![Storm Chaser](images/storms.jpeg)
-+++
-##### [Urban Development/Social Justice](http://louisville.edu/artsandsciences/news/all/walker-and-hanchette)
-![Urban Dev](images/urban.jpeg)
-+++
-##### [Immigrant and Refugee Support](https://www.citylab.com/life/2017/03/the-tech-promising-to-help-immigrants-push-back-on-trump/519993/)
-![Immigrant](images/immigrant.png)
-+++
-##### For More Info
-- On the web: https://www.louisville.edu/geogeo
-- [Send us an email!](https://louisville.edu/geogeo/contact-us/email-the-department)
 ---
 @title[helpful links]
 ##### Some useful links
