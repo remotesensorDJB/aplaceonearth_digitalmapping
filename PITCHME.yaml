@@ -1,5 +1,5 @@
-theme : white
+theme : night
 theme-override : PITCHME.css
-background : images/Topographic-Map-5.png
-transition : slide
+# background : images/Topographic-Map-5.png
+transition : fade
 logo : images/ulcgis.png
