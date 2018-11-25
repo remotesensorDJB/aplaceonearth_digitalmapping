@@ -35,7 +35,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 @title[About Me]
 ### About Me
-@css[fragment](I make maps...)@css[fragment](and web mapping applications...@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations to tell a story about physical or social phenomena.)
+@css[fragment](I make maps...)@css[fragment](and web mapping applications...)@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations to tell a story about physical or social phenomena.)
 +++
 **Everything from glaciers in South America...**
 ![glacier mapping](images/glaciers.PNG)
