@@ -72,11 +72,13 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ![wendell berry](https://www.missioalliance.org/wp-content/uploads/2016/10/wendall-berry.jpg)
 +++
 ### A Place on Earth?
-- Kentucky Author Wendell Berry |
-- Author, Professor, and Agronomist |
-- Writes both fiction and non-fiction |
-- Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc.| 
-- <span class="fragment">[*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)</span>
+<ul>
+ <li class="fragment">Kentucky Author Wendell Berry</li>
+ <li class="fragment">Author, Professor, and Agronomist</li>
+ <li class="fragment">Writes both fiction and non-fiction</li>
+ <li class="fragment">Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc.</li> 
+ <li class="fragment">[*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)</li>
+</ul>
 +++
 ### A Place on Earth?
 - Port William series of novel and short stories
