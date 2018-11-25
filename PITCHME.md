@@ -1,6 +1,5 @@
 @title[A Place on Earth: Scholarship through Digital Mapping Initiatives]
-A Place on Earth: 
-Scholarship through Digital Mapping Initiatives 
+A Place on Earth: Scholarship through Digital Mapping Initiatives 
 -------------------------------
 ### @fa[globe fa-3x]
 ###### Trinity University, November 27th, 2018
