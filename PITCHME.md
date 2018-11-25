@@ -77,7 +77,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ### A Place on Earth?
 - Kentucky Author Wendell Berry |
 - Author, Professor, and Agronomist |
-- Writing evokes a strong | **sense of place** |
+- Writing evokes a strong sense of place |
 - Writes both fiction and non-fiction |
 - Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc. | 
 - [*The Unsettling of America*](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC) (1977) |
