@@ -35,11 +35,20 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 @ulend
 ---
 @title[About Me]
-@snap[north-west]@box[text-orange span-80 fragment](I make maps...)@snapend 
+### About Me
+- I make maps... 
 - Web mapping applications...| 
 - Wrangle spatial data... |
 - Create visualizations to tell a story about physical or social phenomena. |
 --- 
+**Everything from glaciers in South America...**
+![glacier mapping](images/glaciers.PNG)
+---
+**To Bird Scooter usage in my hometown...**
+![bird scooter map](images/birdmap.PNG) 
+---
+**My training is in physical geography and geospatial technology...**
+**But increasingly work with folks outside my discipline** | 
 #### Complete the following statement...
 > "Everything happens ..."
 +++
