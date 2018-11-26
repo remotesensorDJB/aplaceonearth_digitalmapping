@@ -446,6 +446,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 ### Multidisciplinary Digital Mapping Initiatives
 ##### Physical Sciences
 **GIS and Remote Sensing are long standing tools for analyzing physical data, from the atmosphere, to the oceans, and between.**
+
 @css[fragment](What advantages or solutions can web-based mapping render to existing practices?)
 +++
 ### Belknap Campus Tree Mapping
