@@ -457,7 +457,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 - Wrap-Up/More Resources
 +++
 
-###Engaged Scholarship &
+### Engaged Scholarship &
 ### Community Outreach
 
 **Can digital mapping projects support community works and help to affect social change?**
