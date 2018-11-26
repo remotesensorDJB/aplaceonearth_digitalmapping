@@ -439,6 +439,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 ### KIPDA Demographic Data Explorer
 ##### Lessons Learned
 **Technology always has a shelf-life**
+
 @css[fragment](Standards change, app support ends. How will you keep your apps alive in the future?)
 +++
 
