@@ -154,6 +154,18 @@ Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy 
 
 - <span STYLE = "font-size:.6em">[THATCamp LAC 2012](http://thatcamp.org/), from a collaborative [Glossary of Digital Humanities](https://docs.google.com/document/d/129_260mbp6C6JaqmylmhMTXA1sv7YYQ0OLsAOAOoCJE/edit?usp=sharing)</span>
 ---
+### Geohumanities
+- Geography has recognized the intersection of humanities and spatial thinking, including digital mapping. 
+- AAG's semiannual journal [*Geohumanities: Space, Place and the Humanities*](http://www.aag.org/cs/publications/journals/gh) stands as an example.
+- **Storymapping** is a burgeoning tool for engaging audiences with humanities projects
++++
+### Storymapping
+> @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomena that are explicitly located in space and time. 
++++
+### Storymapping
+> @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
++++
+
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
