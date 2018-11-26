@@ -20,7 +20,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - A Place on Earth?
 - GIS and Remote Sensing Review
 - Multidisciplinary Digital Mapping Initiatives
----
++++
 @title[About Me]
 ### About me...
 
@@ -152,7 +152,7 @@ Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy 
 > @size[.6em]("DH values collaboration, plurality, investigation of human culture, and the disruption of and reflection on traditional practices...the **use of digital technology for humanities projects changes the user’s experience**. The term “digital humanities” is very broad, and contains multitudes, but examples of “digital humanities” practices might include the **use of existing digital tools for research, to display data in new and revelatory ways, or to bring research to new audiences**.")
 
 - <span STYLE = "font-size:.6em">[THATCamp LAC 2012](http://thatcamp.org/), from a collaborative [Glossary of Digital Humanities](https://docs.google.com/document/d/129_260mbp6C6JaqmylmhMTXA1sv7YYQ0OLsAOAOoCJE/edit?usp=sharing)</span>
----
++++
 ### Geohumanities
 - Geography has recognized the intersection of humanities and spatial thinking, including digital mapping. 
 - AAG's semiannual journal [*Geohumanities: Space, Place and the Humanities*](http://www.aag.org/cs/publications/journals/gh) stands as an example.
@@ -180,27 +180,36 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom
 ##### The Process
-- 1 Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
-- 2  Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
-- 3 Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
-- 4 Locate and procure compelling images related to sites to accompany map data and text.(Library Archives)|
+- 1) Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
+- 2) Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
+- 3) Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
+- 4) Locate and procure compelling images related to sites to accompany map data and text.(Library Archives)|
 +++
 ### Kentucky Black Freedom
 ##### The Process
-- 5 Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
-- 6 Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
-- 7 Select optimal Story Map template for effective and engaging interactive map. (Geography) |
-- 8 Build and configure Cascade Story Map, and host on 	website. (Geography) |
+- 5) Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
+- 6) Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
+- 7) Select optimal Story Map template for effective and engaging interactive map. (Geography) |
+- 8) Build and configure Cascade Story Map, and host on 	website. (Geography) |
 +++
 ### Kentucky Black Freedom
 ##### Tools Utilized
-- Google Docs for project collaboration and documentation
-- Google Sheets to compile site data and collaboratively edit captions, names, etc.
-- ArcGIS Online for geocoding and hosting geospatial data
-- ArcGIS Online for developing Web Maps, customizing cartographic layout (symbols, pop-ups, titles). 
-- ESRI Story Maps Cascade Template for building final interactive mapping application.
-- Reclaim Web Hosting for hosting https://kentuckyblackfreedom.org/map.
-
+- [Google Docs](https://docs.google.com) for project collaboration and documentation
+- [Google Sheets](https://sheets.google.com) to compile site data and collaboratively edit captions, names, etc.
+- [ArcGIS Online](https://www.arcgis.com) for geocoding and hosting geospatial data
+- [ArcGIS Online](https://www.arcgis.com) for developing Web Maps, customizing cartographic layout (symbols, pop-ups, titles). 
+- [ESRI Story Maps Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/) for building final interactive mapping application.
+- [Reclaim Web Hosting](https://reclaimhosting.com/) for hosting https://kentuckyblackfreedom.org/map.
++++
+### Kentucky Black Freedom 
+##### Lessons Learned
+- Choosing what to include, and what to leave out is **hard**! 
+	- "If I had more time, I would have written a shorter letter" (Mark Twain)
+- Reconciling the creative vision of the team with the tools available can be difficult.
+	- Don't let the perfect be the enemy of the good!
+-  Strive for visual simplicity. 
+	-  Let the content speak for itself. The application should be intuitive, and should get out of the way. 
+--- 
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
