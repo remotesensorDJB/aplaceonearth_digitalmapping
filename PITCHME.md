@@ -198,6 +198,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 **https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html**
 
 <iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
++++
 ### Kentucky Black Freedom
 ##### Tools Utilized
 <span style = "text-size: 0.6em">
