@@ -322,8 +322,25 @@ http://centerforgis.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=87ddffdc
 http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc
 
 http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0e7b82f7d4d27a5f732cd386a956e
----
++++
+### Literary Louisville
+##### Lessons Learned
+**If you build it, you must maintain it!**
 
+@css[fragment](A database without a finite scope needs constant updating with new features, and removal of old ones...who is the steward?)
++++
+### Literary Louisville
+##### Lessons Learned
+**Cloud-based data hosting has its advantages**
+
+@css[fragment](Hosting the database on a local server allows for more functionality, but at the expense of failover capacity and downtime due to software updates and power outages)
++++
+### Literary Louisville
+##### Lessons Learned
+**Start small and scale up**
+
+@css[fragment](Focus on building simple, impactful applications rather than shooting for the moon)
+---
 
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
