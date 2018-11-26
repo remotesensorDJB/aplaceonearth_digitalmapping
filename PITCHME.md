@@ -192,6 +192,12 @@ Create an interactive digital map highlighting a curated set of places with grea
 - 7) Select optimal Story Map template for effective and engaging interactive map. (Geography) |
 - 8) Build and configure Cascade Story Map, and host on 	website. (Geography) |
 +++
++++
+### Kentucky Black Freedom 
+##### The Final Map
+**https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html**
+
+<iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
 ### Kentucky Black Freedom
 ##### Tools Utilized
 <span style = "text-size: 0.6em">
@@ -204,13 +210,24 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
-- Choosing what to include, and what to leave out is **hard**! 
-	- "If I had more time, I would have written a shorter letter" (Mark Twain)
-- Reconciling the creative vision of the team with the tools available can be difficult.
-	- Don't let the perfect be the enemy of the good!
--  Strive for visual simplicity. 
-	-  Let the content speak for itself. The application should be intuitive, and should get out of the way. 
++++
+### Kentucky Black Freedom 
+##### Lessons Learned
+**Choosing what to include, and what to leave out is hard!**
+@css[fragment]("If I had more time, I would have written a shorter letter" -Mark Twain)
++++
+### Kentucky Black Freedom 
+##### Lessons Learned
+**Reconciling the creative vision of the team with the tools available can be difficult.**
+@css[fragment](Don't let the perfect be the enemy of the good!)
++++
+### Kentucky Black Freedom 
+##### Lessons Learned
+**Strive for visual simplicity** 
+@css[fragment](Let the content speak for itself. The application should be intuitive, and should get out of the way.) 
 --- 
+### Literary Louisville
+
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
