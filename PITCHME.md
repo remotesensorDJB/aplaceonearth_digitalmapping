@@ -200,7 +200,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 - [ArcGIS Online](https://www.arcgis.com): geocoding and hosting geospatial data
 - [ArcGIS Online](https://www.arcgis.com): develop Web Maps, customize cartographic layout (symbols, pop-ups, titles). 
 - [ESRI Story Maps Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/): build final interactive mapping application.
-- [Reclaim Web Hosting](https://reclaimhosting.com/) for hosting https://kentuckyblackfreedom.org/map.</span>
+- [Reclaim Web Hosting](https://reclaimhosting.com/) for website hosting.</span>
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
