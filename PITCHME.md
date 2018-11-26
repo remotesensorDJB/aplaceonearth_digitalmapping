@@ -315,7 +315,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 ### Literary Louisville
 **Data Applications**
 Managing Little Free Library Locations
-<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
+http://centerforgis.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=87ddffdc66b44b88941202444c744af7
 +++
 ### Literary Louisville
 **Literary Story Maps**
