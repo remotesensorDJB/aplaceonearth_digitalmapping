@@ -180,17 +180,17 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom
 ##### The Process
-1. Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
-2.  Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
-3. Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
-4. Locate and procure compelling images related to sites to accompany map data and text.|
+- 1. Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
+- 2.  Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
+- 3. Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
+- 4. Locate and procure compelling images related to sites to accompany map data and text.|
 +++
 ### Kentucky Black Freedom
 ##### The Process
-5. Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
-6. Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
-7. Select optimal Story Map template for effective and engaging interactive map. (Geography) |
-8. Build and configure Cascade Story Map, and host on https://kentuckyblackfreedom.org. (Geography) |
+- 5. Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
+- 6. Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
+- 7. Select optimal Story Map template for effective and engaging interactive map. (Geography) |
+- 8. Build and configure Cascade Story Map, and host on https://kentuckyblackfreedom.org. (Geography) |
 +++
 ### Kentucky Black Freedom
 ##### Tools Utilized
