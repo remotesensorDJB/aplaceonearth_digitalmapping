@@ -445,8 +445,55 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 ### Multidisciplinary Digital Mapping Initiatives
 ##### Physical Sciences
-
+**GIS and Remote Sensing are long standing tools for analyzing physical data, from the atmosphere, to the oceans, and between.**
+@css[fragment](What advantages or solutions can web-based mapping render to existing practices?)
 +++
+### Belknap Campus Tree Mapping
+- Collaboration of:
+	- Geography
+	- Biology
+	- Sustainability
+	- Physical Plant
+- How can we efficiently map, measure, and manage our campus tree cover? 
++++
+### Belknap Campus Tree Mapping
+- Over 1,000 trees on UofL's Belknap campus.
+- Great diversity of species, ages, and benefits (e.g. CO2 capture)
+- Different actors looking at different pieces
+	- Sustainability: How much CO2 is sequestered?
+	- Biology: What phenological changes occur seasonally?
+	- Physical Plant: When was a tree planted/removed/maintained? 
++++
+
+### Belknap Campus Tree Mapping
+- Geography students mapped tree locations with GPS devices.
+- Biology grad students ID'ed trees and measured them (*canopy diameter, DBH, etc.)
+- Sustainability calculated benefits from allometric data.
+- Data are maintained in **one location** for all users and applications. 
++++
+
+### Belknap Campus Tree Mapping
+![server stack](images/serverstack.jpg)
++++
+
+### Belknap Campus Tree Mapping
+- Database exposed to users through [Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis) and [ArcGIS Online](https://www.arcgis.com) Web Maps.
+- Collector allows users to edit trees and update data values.
+- Web Maps/Apps allow analysis and visualization.
+-  http://centerforgis.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=a62c8bd79cfc4556943b215c94842fb7
++++
+
+### Belknap Campus Tree Mapping
+##### Lessons Learned
+**A working solution will spur new ideas**
+
+@css[fragment](Seeing information on a map generates insights that spark creative/critical thinking.)
++++
+**For complex datasets and applications, a robust solution is warranted**
+
+@css[fragment](Sometimes the more sophisticated design is justifiable)
++++
+
 #### The Plan
 - ~~About Me~~
 - ~~A Place on Earth?~~
