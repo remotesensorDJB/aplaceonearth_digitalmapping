@@ -211,20 +211,20 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
-+++
-### Kentucky Black Freedom 
-##### Lessons Learned
 **Choosing what to include, and what to leave out is hard!**
+
 @css[fragment]("If I had more time, I would have written a shorter letter" -Mark Twain)
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
 **Reconciling the creative vision of the team with the tools available can be difficult.**
+
 @css[fragment](Don't let the perfect be the enemy of the good!)
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
 **Strive for visual simplicity** 
+
 @css[fragment](Let the content speak for itself. The application should be intuitive, and should get out of the way.) 
 --- 
 ### Literary Louisville
