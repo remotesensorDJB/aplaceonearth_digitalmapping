@@ -370,9 +370,9 @@ http://centerforgis.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=87ddffdc
 **Literary Story Maps**
 http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc
 
-http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.htm
-l?appid=f6f0e7b82f7d4d27a5f732cd386a956e
+http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0e7b82f7d4d27a5f732cd386a956e
 +++
+
 ### Literary Louisville
 ##### Lessons Learned
 **If you build it, you must maintain it!**
