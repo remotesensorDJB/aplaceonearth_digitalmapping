@@ -60,7 +60,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - And more... |
 +++
 #### The Spatial Advantage
-@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomenon relate to each other is KEY to understanding them.)
+@css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomena relate to each other is KEY to understanding them.)
 
 @css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
 +++
