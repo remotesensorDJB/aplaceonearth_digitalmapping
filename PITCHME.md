@@ -121,8 +121,6 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 #### Remote Sensing
 > Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
 - [Lillesand et al., 2015](https://www.wiley.com/en-us/Remote+Sensing+and+Image+Interpretation%2C+7th+Edition-p-9781118343289)
-
- 
 +++
 @title[measurement from distance]
 **What does that mean??**
@@ -166,6 +164,42 @@ Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy 
 ### Storymapping
 > @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
 +++
+### Kentucky Black Freedom Map
+- Collaboration between:
+	- Geography/Center for GIS
+	- History
+	- Libraries/Archives and Special Collections
+	- [KY Center for African American Heritage](https://kcaah.org/)
+- Funding through the [Cooperative Consortium for Transdisciplinary Social Justice Research @ UofL](https://louisville.edu/socialjustice) 
++++
+### Kentucky Black Freedom
+##### The Idea
+Create an interactive digital map highlighting a curated set of places with great significance to the Civil Rights struggle in Kentucky.
+ 
+@css[fragment](A broad topic!)
++++
+### Kentucky Black Freedom
+##### The Process
+1. Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
+2.  Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
+3. Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
+4. Locate and procure compelling images related to sites to accompany map data and text.|
++++
+### Kentucky Black Freedom
+##### The Process
+5. Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
+6. Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
+7. Select optimal Story Map template for effective and engaging interactive map. (Geography) |
+8. Build and configure Cascade Story Map, and host on https://kentuckyblackfreedom.org. (Geography) |
++++
+### Kentucky Black Freedom
+##### Tools Utilized
+- Google Docs for project collaboration and documentation
+- Google Sheets to compile site data and collaboratively edit captions, names, etc.
+- ArcGIS Online for geocoding and hosting geospatial data
+- ArcGIS Online for developing Web Maps, customizing cartographic layout (symbols, pop-ups, titles). 
+- ESRI Story Maps Cascade Template for building final interactive mapping application.
+- Reclaim Web Hosting for hosting https://kentuckyblackfreedom.org/map.
 
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
