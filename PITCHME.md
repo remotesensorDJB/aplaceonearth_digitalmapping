@@ -195,13 +195,13 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom 
 ##### The Final Map
-**https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html**
+<span style = "font-size: 0.6em">**https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html**</span>
 
 <iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
 +++
 ### Kentucky Black Freedom
 ##### Tools Utilized
-<span style = "text-size: 0.6em">
+<span style = "font-size: 0.6em">
 - [Google Docs](https://docs.google.com): project collaboration/documentation
 - [Google Sheets](https://sheets.google.com): compile and collaboratively edit site data.
 - [ArcGIS Online](https://www.arcgis.com): geocoding and hosting geospatial data
