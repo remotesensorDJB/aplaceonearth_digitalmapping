@@ -137,6 +137,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 @title[measurement from distance]
 **What does that mean??**
+
 @css[fragment](Hearing, seeing, smelling are all remote sensing, but here we focus on one kind...Measurement, usually by satellite-borne sensors, of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.)
 +++
 @title[remote sensing platforms]
@@ -257,6 +258,8 @@ Create an interactive digital map highlighting a curated set of places with grea
 - Place and space often play a key role in literary works
 	- Explicitly (place is part of the story itself)
 	- Implicitly (real world events and geography shape trajectory of literature in general)
++++
+### Literary Louisville
 - Phenomena associated with literature often have a location component
 	- Events (whether real or fictional)
 	- People (authors, characters, etc.)
@@ -286,7 +289,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 - Insures data integrity through use of attribute domains
 - Streamlines data entry in field by limiting manual data input 
 - Specificity to analyze data at most granular level
-Comprehensiveness and flexibility to account for potentially irregular and non-conforming data (a catch-all)
+- Comprehensiveness and flexibility to account for potentially irregular and non-conforming data (a catch-all)
 +++
 ### Literary Louisville
 **The solution**
@@ -307,7 +310,21 @@ Comprehensiveness and flexibility to account for potentially irregular and non-c
 +++
 ### Literary Louisville
 **ArcGIS Collector data collection**
-![collector](images/collector.jpg)  
+![collector](images/collector.jpg) 
++++
+### Literary Louisville
+**Data Applications**
+Managing Little Free Library Locations
+<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
++++
+### Literary Louisville
+**Literary Story Maps**
+http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc
+
+http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0e7b82f7d4d27a5f732cd386a956e
+---
+
+
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
