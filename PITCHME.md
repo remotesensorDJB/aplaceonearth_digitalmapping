@@ -84,7 +84,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 ### A Place on Earth?
 <ul>
- <li class="fragment">Kentucky Author Wendell Berry</li>
+ <li class="fragment">Kentucky author Wendell Berry</li>
  <li class="fragment">Author, Professor, and Agronomist</li>
  <li class="fragment">Writes both fiction and non-fiction</li>
  <li class="fragment">Topics ranging from agricultural practices and the economy, relationships and community, racism, spirituality, etc.</li> 
@@ -165,7 +165,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 ###### Digital Humanities
 **A useful definition**
-> @size[.6em]("The phrase Digital Humanities… describes not just a collective singular but also the humanities in the plural, able to address and engage disparate subject matters across media, language, location, and history. But, however heterogeneous, the Digital Humanities is unified by its emphasis on making, connecting, interpreting, and collaborating") 
+> @size[.6em]("The phrase Digital Humanities… describes not just a collective singular but also the humanities in the plural, able to address and engage disparate subject matters across **media**, language, **location**, and history. But, however heterogeneous, the Digital Humanities is unified by its emphasis on making, connecting, interpreting, and collaborating") 
 
 - <span STYLE = "font-size:.6em">["Digital Humanities"](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), by Anne Burdick, Johanna Drucker, Peter Lunenfeld, Todd Presner, Jeffrey Schnapp</span>
 +++
@@ -201,7 +201,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom
 ##### The Process
-- 1) Through conversations with the KCAAH and a broad literature review, establish a database of important Civil Rights sites. (History, Geography) |
+- 1) Establish a database of important Civil Rights sites. (History, Geography) |
 - 2) Categorize sites according to major themes related to the Civil Rights movement, e.g. housing, business, education, etc. (History) |
 - 3) Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
 - 4) Locate and procure compelling images related to sites to accompany map data and text.(Library Archives)|
@@ -264,7 +264,6 @@ Create an interactive digital map highlighting a curated set of places with grea
 	- Events (whether real or fictional)
 	- People (authors, characters, etc.)
 	- Places (literary settings, libraries, publishing houses, theatres)
-- Mapping these features of literary interest captures a new dimension of the story
 +++
 ### Literary Louisville
 - What does “mapping the humanities” and in this case “Literary Louisville” look like? 
@@ -293,13 +292,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Literary Louisville
 **The solution**
-![server stack](images/serverstack.jpg)
-+++
-### Literary Louisville
-** Solution Advantages**
-- Employs existing ULCGIS hardware and software infrastructure. 
-- Allows data access (collection/editing/dissemination) through web services. 
-- Centralized management…data edits made in one application propagate in real-time to all applications consuming the service. 
+![server stack](images/serverstack.jpg) 
 +++
 ### Literary Louisville
 **Database can be consumed in...**
@@ -341,14 +334,43 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 @css[fragment](Focus on building simple, impactful applications rather than shooting for the moon)
 ---
+### Multidisciplinary Digital Mapping Initiatives
+##### Social Sciences
 
-##### journalism/storytelling
-- Story Maps convey place-based narratives about a topic or idea
-- Mashups of maps, text, and multimedia in an interactive web applications
-- Effective and engaging communication in a web browser
-- https://storymaps.esri.com
+@css[fragment](**Just as there is a physical landscape of landforms, vegetation, and other features, there is also a social landscape of cities, neighborhoods, and people**)
 
+@css[fragment](**What does that landscape look like?**) 
+
+@css[fragment](**What are the contours of the social fabric? What processes cause them to form and to become reconstituted through time?**)
 +++
+### KIPDA Demographic Data Explorer
+- Collaboration with the Kent School of Social Work
+- Contracted by local planning agency to survey the landscape of social services and need in Louisville Metro. 
+- Where are the services? Where is the need? **Where are the gaps?**
++++
+### KIPDA Demographic Data Explorer
+- Social services data from providers, aggregated to zip codes
+- Demographic data from [US Census/American Community Survey](https://factfinder.census.gov/)
+- Lightweight web application to explore the intersection of services and need.
++++
+### KIPDA Demographic Data Explorer
+- [ArcGIS Flexviewer](http://resources.arcgis.com/en/communities/flex-viewer/) App, running on [ArcGIS Server](https://enterprise.arcgis.com/en/server/) backend.
+- Provides interactive variable mapping tools. 
+**http://ulcgis.org/flexviewers/KIPDA_Map2018/**
++++
+### KIPDA Demographic Data Explorer
+##### Lessons Learned
+@css[fragment](**Must support your users**)
+
+@css[fragment](Offering an app with complex functionality means training people to use it!)
++++ 
+### KIPDA Demographic Data Explorer
+##### Lessons Learned
+@css[fragment](**Bite-sized insights vs. a buffet of data**)
+
+@css[fragment](Distill the information into actionable insights, rather than a kitchen sink approach)
++++
+
 @title[story map example 1]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
 +++
