@@ -6,6 +6,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 ###### D.J. Biddle, GISP
 ###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
+
 @title[The Plan]
 #### The Plan
 - About Me
@@ -14,7 +15,9 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Multidisciplinary Digital Mapping Initiatives
 - Engaged Scholarship/Community Outreach
 - Digital Mapping in the classroom
+- Wrap-Up/More Resources
 ---
+
 @title[The Plan]
 #### The Plan
 - **About Me**
@@ -23,7 +26,9 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Multidisciplinary Digital Mapping Initiatives
 - Engaged Scholarship/Community Outreach
 - Digital Mapping in the classroom
+- Wrap-Up/More Resources
 +++
+
 @title[About Me]
 ### About me...
 
@@ -36,20 +41,25 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Technical support to campus GIS users
 @ulend
 +++
+
 @title[About Me]
 ### About Me
 @css[fragment](I make maps...)@css[fragment](and web mapping applications...)@css[fragment](and wrangle spatial data...)@css[fragment](to create visualizations that tell a story about physical or social phenomena.)
 +++
+
 **Everything from glaciers in South America...**
 ![glacier mapping](images/glaciers.PNG)
 +++
+
 **To Bird Scooter usage in my hometown...**
 ![bird scooter map](images/birdmap.PNG) 
 +++
+
 @css[fragment](**My training is in physical geography and geospatial technology...**)
 
 @css[fragment](**but increasingly I work with folks outside my discipline**) 
 +++
+
 **Folks from...**
 - Urban planning |
 - Humanities |
@@ -59,17 +69,20 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Anthropology | 
 - And more... |
 +++
+
 #### The Spatial Advantage
 @css[fragment](Geographers know that where things happen, and how the locations of different people, events, and natural phenomena relate to each other is KEY to understanding them.)
 
 @css[fragment](Digital mapping and spatial thinking are being recognized as an essential component of projects that cross traditional disciplinary boundaries.) 
 +++
+
 #### Complete the following statement...
 @css[fragment](Everything happens...) @css[fragment](SOMEWHERE!) 
 +++
 
 ### How can digital mapping initiatives enhance teaching, research, and engaged scholarship? 
 ---
+
 #### The Plan
 - ~~About Me~~ 
 - **A Place on Earth?**
@@ -77,7 +90,9 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Multidisciplinary Digital Mapping Initiatives
 - Engaged Scholarship/Community Outreach
 - Digital Mapping in the classroom
+- Wrap-Up/More Resources
 +++
+
 ### A Place on Earth?
 **Does anyone recognize this guy?**
 ![wendell berry](https://www.missioalliance.org/wp-content/uploads/2016/10/wendall-berry.jpg)
@@ -91,24 +106,29 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
  <li class="fragment">[*The Unsettling of America* (1977)](https://books.google.com/books/about/The_Unsettling_of_America.html?id=uSk9gAktmpQC)</li>
 </ul>
 +++
+
 ### A Place on Earth?
 - Port William series of novel and short stories
 - [*A Place on Earth*, 1967](https://books.google.com/books/about/A_place_on_earth.html?id=eVFaAAAAMAAJ) is the central novel in the series
 
 ![place on earth](https://www.lebookiniste.com/pictures/medium/909.jpg)
 +++
+
 **Jayber Crow**
 ![](images/jayber.jpg)
 +++
+
 ### A Place on Earth?
 - Berry's writing evokes a strong sense of place |
 - Land, and people's connection to it, is an essential part of the story...| 
 @css[fragment](almost a character in its own right.)
 +++
+
 ### A Place on Earth?
 > “I believe that the community - in the fullest sense: a place and all its creatures - is the smallest unit of health and that to speak of the health of an isolated individual is a contradiction in terms. (pg. 146, Health is Membership)”
 > Wendell Berry, [The Art of the Commonplace: The Agrarian Essays](https://books.google.com/books/about/The_Art_of_the_Commonplace.html?id=K5j43sEr6xAC)
 ---
+
 #### The Plan
 - ~~About Me~~
 - ~~A Place on Earth?~~
@@ -116,39 +136,50 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - Multidisciplinary Digital Mapping Initiatives
 - Engaged Scholarship/Community Outreach
 - Digital Mapping in the classroom
+- Wrap-Up/More Resources
 +++
+
 ### GIS and Remote Sensing 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
 **-Environmental  Systems Research Institute (ESRI)**
 +++
+
 @title[gis layers concept]
 ![GIS Layers Concept](images/GIS-layers.jpg)
 +++
+
 @title[gis database concept]
 ![GIS Database Link](images/link.png)
 +++
+
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
 +++
+
 @title[remote sensing basics]
 #### Remote Sensing
 > Remote sensing is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation
 - [Lillesand et al., 2015](https://www.wiley.com/en-us/Remote+Sensing+and+Image+Interpretation%2C+7th+Edition-p-9781118343289)
 +++
+
 @title[measurement from distance]
 **What does that mean??**
 
 @css[fragment](Hearing, seeing, smelling are all remote sensing, but here we focus on one kind...Measurement, usually by satellite-borne sensors, of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.)
 +++
+
 @title[remote sensing platforms]
 ![RS platforms from space](images/satellites.JPG)
 +++
+
 @title[remote sensing platforms]
 ![RS platforms](images/platforms.JPG)
 +++
+
 @title[remote sensing platforms]
 ![RS applications](images/applications.JPG)
 ---
+
 #### The Plan
 - ~~About Me~~
 - ~~A Place on Earth?~~
@@ -156,35 +187,43 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 - **Multidisciplinary Digital Mapping Initiatives**
 - Engaged Scholarship/Community Outreach
 - Digital Mapping in the classroom
+- Wrap-Up/More Resources
 +++
+
 ### Multidisciplinary Digital Mapping Initiatives
 ###### Humanities
 - Recent move towards "Digital Humanities" |
 - Digital Humanities Initiatives popping up all over the place! |
 - What is Digital Humanities? |
 +++
+
 ###### Digital Humanities
 **A useful definition**
 > @size[.6em]("The phrase Digital Humanities… describes not just a collective singular but also the humanities in the plural, able to address and engage disparate subject matters across **media**, language, **location**, and history. But, however heterogeneous, the Digital Humanities is unified by its emphasis on making, connecting, interpreting, and collaborating") 
 
 - <span STYLE = "font-size:.6em">["Digital Humanities"](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), by Anne Burdick, Johanna Drucker, Peter Lunenfeld, Todd Presner, Jeffrey Schnapp</span>
 +++
+
 **And another...**
 > @size[.6em]("DH values collaboration, plurality, investigation of human culture, and the disruption of and reflection on traditional practices...the **use of digital technology for humanities projects changes the user’s experience**. The term “digital humanities” is very broad, and contains multitudes, but examples of “digital humanities” practices might include the **use of existing digital tools for research, to display data in new and revelatory ways, or to bring research to new audiences**.")
 
 - <span STYLE = "font-size:.6em">[THATCamp LAC 2012](http://thatcamp.org/), from a collaborative [Glossary of Digital Humanities](https://docs.google.com/document/d/129_260mbp6C6JaqmylmhMTXA1sv7YYQ0OLsAOAOoCJE/edit?usp=sharing)</span>
 +++
+
 ### Geohumanities
 - Geography has recognized the intersection of humanities and spatial thinking, including digital mapping. 
 - AAG's semiannual journal [*Geohumanities: Space, Place and the Humanities*](http://www.aag.org/cs/publications/journals/gh) stands as an example.
 - **Storymapping** is a burgeoning tool for engaging audiences with humanities projects
 +++
+
 ### Storymapping
 > @size[.6em] Story Maps are **lightweight web applications** that mash up interactive GIS **maps**, photos/videos and other **multimedia content**, and text-based **narratives**, to tell a story about places or phenomena that are explicitly located in space and time. 
 +++
+
 ### Storymapping
 > @size[.6em] Story Maps leverage modern web development tools to provide an  **engaging, dynamic user experience** that grounds your story in its **geographic setting**.
 +++
+
 ### Kentucky Black Freedom Map
 - Collaboration between:
 	- Geography/Center for GIS
@@ -193,12 +232,14 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 	- [KY Center for African American Heritage](https://kcaah.org/)
 - Funding through the [Cooperative Consortium for Transdisciplinary Social Justice Research @ UofL](https://louisville.edu/socialjustice) 
 +++
+
 ### Kentucky Black Freedom
 ##### The Idea
 Create an interactive digital map highlighting a curated set of places with great significance to the Civil Rights struggle in Kentucky.
  
 @css[fragment](A broad topic!)
 +++
+
 ### Kentucky Black Freedom
 ##### The Process
 - 1) Establish a database of important Civil Rights sites. (History, Geography) |
@@ -206,6 +247,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 - 3) Write captions for each site that encapsulates its importance and ties to broader themes. (History) |  
 - 4) Locate and procure compelling images related to sites to accompany map data and text.(Library Archives)|
 +++
+
 ### Kentucky Black Freedom
 ##### The Process
 - 5) Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
@@ -213,58 +255,65 @@ Create an interactive digital map highlighting a curated set of places with grea
 - 7) Select optimal Story Map template for effective and engaging interactive map. (Geography) |
 - 8) Build and configure Cascade Story Map, and host on 	website. (Geography) |
 +++
-+++
+
 ### Kentucky Black Freedom 
 ##### The Final Map
 <span style = "font-size: 0.6em">**https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html**</span>
 
 <iframe class = "stretch" data-src = "https://kentuckyblackfreedom.org/kentucky-freedom-struggle/index.html"></iframe>
 +++
+
 ### Kentucky Black Freedom
 ##### Tools Utilized
 <span style = "font-size: 0.6em">
 - [Google Docs](https://docs.google.com): project collaboration/documentation
 - [Google Sheets](https://sheets.google.com): compile and collaboratively edit site data.
-- [ArcGIS Online](https://www.arcgis.com): geocoding and hosting geospatial data
-- [ArcGIS Online](https://www.arcgis.com): develop Web Maps, customize cartographic layout (symbols, pop-ups, titles). 
+- [ArcGIS Online](https://www.arcgis.com): geocode and host geospatial data, develop Web Maps, customize cartographic layout (symbols, pop-ups, titles). 
 - [ESRI Story Maps Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/): build final interactive mapping application.
 - [Reclaim Web Hosting](https://reclaimhosting.com/) for website hosting.</span>
 +++
+
 ### Kentucky Black Freedom 
 ##### Lessons Learned
 **Choosing what to include, and what to leave out is hard!**
 
 @css[fragment]("If I had more time, I would have written a shorter letter" -Mark Twain)
 +++
+
 ### Kentucky Black Freedom 
 ##### Lessons Learned
 **Reconciling the creative vision of the team with the tools available can be difficult.**
 
 @css[fragment](Don't let the perfect be the enemy of the good!)
 +++
+
 ### Kentucky Black Freedom 
 ##### Lessons Learned
 **Strive for visual simplicity** 
 
 @css[fragment](Let the content speak for itself. The application should be intuitive, and should get out of the way.) 
 --- 
+
 ### Literary Louisville
 ##### Mapping Literary Culture
 - Collaboration with English Department
 - Idea: Let's map **everything** related to literary culture in Louisville!
 - Generate an extensive database which we can draw upon to build maps related to any theme we wish! 
 +++
+
 ### Literary Louisville
 - Place and space often play a key role in literary works
 	- Explicitly (place is part of the story itself)
 	- Implicitly (real world events and geography shape trajectory of literature in general)
 +++
+
 ### Literary Louisville
 - Phenomena associated with literature often have a location component
 	- Events (whether real or fictional)
 	- People (authors, characters, etc.)
 	- Places (literary settings, libraries, publishing houses, theatres)
 +++
+
 ### Literary Louisville
 - What does “mapping the humanities” and in this case “Literary Louisville” look like? 
 - What kinds of features are of interest? 
@@ -272,6 +321,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 - What tools are available? 
 - How can we manage and use the data collected? 
 +++
+
 ### Literary Louisville
 - How do we get from conceptual model → data model? 
 	- Data attributes become fields in a table.
@@ -283,6 +333,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 	- Text
 	- Other
 +++
+
 ### Literary Louisville
 **Importance of well-designed data model**
 - Insures data integrity through use of attribute domains
@@ -290,10 +341,12 @@ Create an interactive digital map highlighting a curated set of places with grea
 - Specificity to analyze data at most granular level
 - Comprehensiveness and flexibility to account for potentially irregular and non-conforming data (a catch-all)
 +++
+
 ### Literary Louisville
 **The solution**
 ![server stack](images/serverstack.jpg) 
 +++
+
 ### Literary Louisville
 **Database can be consumed in...**
 - [ArcGIS Online](https://www.arcgis.com): web-mapping
@@ -301,20 +354,24 @@ Create an interactive digital map highlighting a curated set of places with grea
 - [Story Maps](https://storymaps.esri.com): crafting narratives from the database
 - [ArcGIS Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis): field data collection and editing 
 +++
+
 ### Literary Louisville
 **ArcGIS Collector data collection**
 ![collector](images/collector.jpg) 
 +++
+
 ### Literary Louisville
 **Data Applications**
 Managing Little Free Library Locations
 http://centerforgis.maps.arcgis.com/apps/StoryMapBasic/index.html?appid=87ddffdc66b44b88941202444c744af7
 +++
+
 ### Literary Louisville
 **Literary Story Maps**
 http://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=7c3e27c2078f4e17a30b6b8b141998bc
 
-http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0e7b82f7d4d27a5f732cd386a956e
+http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.htm
+l?appid=f6f0e7b82f7d4d27a5f732cd386a956e
 +++
 ### Literary Louisville
 ##### Lessons Learned
@@ -322,18 +379,21 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 @css[fragment](A database without a finite scope needs constant updating with new features, and removal of old ones...who is the steward?)
 +++
+
 ### Literary Louisville
 ##### Lessons Learned
 **Cloud-based data hosting has its advantages**
 
 @css[fragment](Hosting the database on a local server allows for more functionality, but at the expense of failover capacity and downtime due to software updates and power outages)
 +++
+
 ### Literary Louisville
 ##### Lessons Learned
 **Start small and scale up**
 
 @css[fragment](Focus on building simple, impactful applications rather than shooting for the moon)
 ---
+
 ### Multidisciplinary Digital Mapping Initiatives
 ##### Social Sciences
 
@@ -343,33 +403,81 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 @css[fragment](**What are the contours of the social fabric? What processes cause them to form and to become reconstituted through time?**)
 +++
+
 ### KIPDA Demographic Data Explorer
 - Collaboration with the Kent School of Social Work
 - Contracted by local planning agency to survey the landscape of social services and need in Louisville Metro. 
 - Where are the services? Where is the need? **Where are the gaps?**
 +++
+
 ### KIPDA Demographic Data Explorer
 - Social services data from providers, aggregated to zip codes
 - Demographic data from [US Census/American Community Survey](https://factfinder.census.gov/)
 - Lightweight web application to explore the intersection of services and need.
 +++
+
 ### KIPDA Demographic Data Explorer
 - [ArcGIS Flexviewer](http://resources.arcgis.com/en/communities/flex-viewer/) App, running on [ArcGIS Server](https://enterprise.arcgis.com/en/server/) backend.
 - Provides interactive variable mapping tools. 
 **http://ulcgis.org/flexviewers/KIPDA_Map2018/**
 +++
+
 ### KIPDA Demographic Data Explorer
 ##### Lessons Learned
-@css[fragment](**Must support your users**)
+**You must support your users**
 
 @css[fragment](Offering an app with complex functionality means training people to use it!)
 +++ 
+
 ### KIPDA Demographic Data Explorer
 ##### Lessons Learned
-@css[fragment](**Bite-sized insights vs. a buffet of data**)
+**Bite-sized insights vs. a buffet of data**
 
 @css[fragment](Distill the information into actionable insights, rather than a kitchen sink approach)
 +++
+
+t### KIPDA Demographic Data Explorer
+##### Lessons Learned
+**Technology always has a shelf-life**
+@css[fragment](Standards change, app support ends. How will you keep your apps alive in the future?)
++++
+
+### Multidisciplinary Digital Mapping Initiatives
+##### Physical Sciences
+
++++
+#### The Plan
+- ~~About Me~~
+- ~~A Place on Earth?~~
+- ~~GIS and Remote Sensing Review~~
+- ~~Multidisciplinary Digital Mapping Initiatives~~
+- **Engaged Scholarship/Community Outreach**
+- Digital Mapping in the classroom
+- Wrap-Up/More Resources
++++
+
+###Engaged Scholarship &
+### Community Outreach
+
+**Can digital mapping projects support community works and help to affect social change?**
+
+@css[fragment](How can we use digital mapping as a platform to empower people?)
++++
+
+### National Safe Place Network
+- Many non-profit organizations have spatial data and analysis needs, but lack resources.
+- As GIS/Mapping professionals, we can help!
+- 
++++
+
+#### The Plan
+- ~~About Me~~
+- ~~A Place on Earth?~~
+- ~~GIS and Remote Sensing Review~~
+- ~~Multidisciplinary Digital Mapping Initiatives~~
+- ~~Engaged Scholarship/Community Outreach~~
+- **Digital Mapping in the classroom**
+- Wrap-Up/More Resources
 
 @title[story map example 1]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
