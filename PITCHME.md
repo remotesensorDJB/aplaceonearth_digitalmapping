@@ -287,8 +287,27 @@ Create an interactive digital map highlighting a curated set of places with grea
 - Streamlines data entry in field by limiting manual data input 
 - Specificity to analyze data at most granular level
 Comprehensiveness and flexibility to account for potentially irregular and non-conforming data (a catch-all)
-
- 
++++
+### Literary Louisville
+**The solution**
+![server stack](images/serverstack.jpg)
++++
+### Literary Louisville
+** Solution Advantages**
+- Employs existing ULCGIS hardware and software infrastructure. 
+- Allows data access (collection/editing/dissemination) through web services. 
+- Centralized management…data edits made in one application propagate in real-time to all applications consuming the service. 
++++
+### Literary Louisville
+**Database can be consumed in...**
+- [ArcGIS Online](https://www.arcgis.com): web-mapping
+- [ArcGIS Desktop](https://www.arcgis.com/desktop): data editing and analysis
+- [Story Maps](https://storymaps.esri.com): crafting narratives from the database
+- [ArcGIS Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis): field data collection and editing 
++++
+### Literary Louisville
+**ArcGIS Collector data collection**
+![collector](images/collector.jpg)  
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
