@@ -490,6 +490,8 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 @css[fragment](Seeing information on a map generates insights that spark creative/critical thinking.)
 +++
+### Belknap Campus Tree Mapping
+##### Lessons Learned
 **For complex datasets and applications, a robust solution is warranted**
 
 @css[fragment](Sometimes the more sophisticated design is justifiable)
