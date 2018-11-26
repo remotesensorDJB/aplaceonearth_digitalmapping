@@ -106,9 +106,6 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 @css[fragment](almost a character in its own right.)
 +++
 ### A Place on Earth?
-@css[fragment]("A Place on Earth" is the SOMEWHERE, where everything happens!)
----
-### A Place on Earth?
 > “I believe that the community - in the fullest sense: a place and all its creatures - is the smallest unit of health and that to speak of the health of an isolated individual is a contradiction in terms. (pg. 146, Health is Membership)”
 > Wendell Berry, [The Art of the Commonplace: The Agrarian Essays](https://books.google.com/books/about/The_Art_of_the_Commonplace.html?id=K5j43sEr6xAC)
 ---
@@ -122,16 +119,13 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 ### GIS and Remote Sensing 
 > @size[.6em](A geographic information system <GIS> is a framework for gathering, managing, and analyzing data. Rooted in the science of geography, GIS integrates many types of data. It analyzes spatial location and organizes layers of information into visualizations using maps and 3D scenes. ​With this unique capability, GIS reveals deeper insights into data, such as patterns, relationships, and situations—helping users make smarter decisions.) 
-###### -Environmental Research Systems Institute (ESRI)
-+++
-@title[gis components]
-![GIS Components](images/components.jpg)
-+++
-@title[gis database concept]
-![GIS Database Link](images/link.png)
+**-Environmental  Systems Research Institute (ESRI)**
 +++
 @title[gis layers concept]
 ![GIS Layers Concept](images/GIS-layers.jpg)
++++
+@title[gis database concept]
+![GIS Database Link](images/link.png)
 +++
 @title[gis applications]
 ![GIS Applications](images/gis-applications.jpg)
@@ -143,8 +137,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 @title[measurement from distance]
 **What does that mean??**
-@css[fragment](Hearing, seeing, smelling are all remote sensing, but here we focus on one kind: 
-Measurement, by satellite-borne sensors (mostly), of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.)
+@css[fragment](Hearing, seeing, smelling are all remote sensing, but here we focus on one kind...Measurement, usually by satellite-borne sensors, of the electromagnetic energy reflected or emitted from objects on the Earth’s surface.)
 +++
 @title[remote sensing platforms]
 ![RS platforms from space](images/satellites.JPG)
@@ -255,7 +248,47 @@ Create an interactive digital map highlighting a curated set of places with grea
 @css[fragment](Let the content speak for itself. The application should be intuitive, and should get out of the way.) 
 --- 
 ### Literary Louisville
+##### Mapping Literary Culture
+- Collaboration with English Department
+- Idea: Let's map **everything** related to literary culture in Louisville!
+- Generate an extensive database which we can draw upon to build maps related to any theme we wish! 
++++
+### Literary Louisville
+- Place and space often play a key role in literary works
+	- Explicitly (place is part of the story itself)
+	- Implicitly (real world events and geography shape trajectory of literature in general)
+- Phenomena associated with literature often have a location component
+	- Events (whether real or fictional)
+	- People (authors, characters, etc.)
+	- Places (literary settings, libraries, publishing houses, theatres)
+- Mapping these features of literary interest captures a new dimension of the story
++++
+### Literary Louisville
+- What does “mapping the humanities” and in this case “Literary Louisville” look like? 
+- What kinds of features are of interest? 
+- What do we want to know about our data? How does it get recorded?
+- What tools are available? 
+- How can we manage and use the data collected? 
++++
+### Literary Louisville
+- How do we get from conceptual model → data model? 
+	- Data attributes become fields in a table.
+- Fields may have domains – lists or ranges of valid values for each attribute.
+- Example: Literary Site Type:
+	- Place
+	- Event
+	- Person
+	- Text
+	- Other
++++
+### Literary Louisville
+**Importance of well-designed data model**
+- Insures data integrity through use of attribute domains
+- Streamlines data entry in field by limiting manual data input 
+- Specificity to analyze data at most granular level
+Comprehensiveness and flexibility to account for potentially irregular and non-conforming data (a catch-all)
 
+ 
 ##### journalism/storytelling
 - Story Maps convey place-based narratives about a topic or idea
 - Mashups of maps, text, and multimedia in an interactive web applications
