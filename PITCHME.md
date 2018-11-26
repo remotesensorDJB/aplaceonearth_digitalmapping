@@ -194,12 +194,13 @@ Create an interactive digital map highlighting a curated set of places with grea
 +++
 ### Kentucky Black Freedom
 ##### Tools Utilized
-- [Google Docs](https://docs.google.com) for project collaboration and documentation
-- [Google Sheets](https://sheets.google.com) to compile site data and collaboratively edit captions, names, etc.
-- [ArcGIS Online](https://www.arcgis.com) for geocoding and hosting geospatial data
-- [ArcGIS Online](https://www.arcgis.com) for developing Web Maps, customizing cartographic layout (symbols, pop-ups, titles). 
-- [ESRI Story Maps Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/) for building final interactive mapping application.
-- [Reclaim Web Hosting](https://reclaimhosting.com/) for hosting https://kentuckyblackfreedom.org/map.
+<span style = "text-size: 0.6em">
+- [Google Docs](https://docs.google.com): project collaboration/documentation
+- [Google Sheets](https://sheets.google.com): compile and collaboratively edit site data.
+- [ArcGIS Online](https://www.arcgis.com): geocoding and hosting geospatial data
+- [ArcGIS Online](https://www.arcgis.com): develop Web Maps, customize cartographic layout (symbols, pop-ups, titles). 
+- [ESRI Story Maps Cascade Template](https://storymaps.arcgis.com/en/app-list/cascade/): build final interactive mapping application.
+- [Reclaim Web Hosting](https://reclaimhosting.com/) for hosting https://kentuckyblackfreedom.org/map.</span>
 +++
 ### Kentucky Black Freedom 
 ##### Lessons Learned
