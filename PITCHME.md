@@ -190,7 +190,7 @@ Create an interactive digital map highlighting a curated set of places with grea
 - 5 Geocode sites and ingest data into ArcGIS Online environment. (Geography) |
 - 6 Organize, symbolize and configure maps for use in Story Maps platform. (Geography) |
 - 7 Select optimal Story Map template for effective and engaging interactive map. (Geography) |
-- 8 Build and configure Cascade Story Map, and host on https://kentuckyblackfreedom.org. (Geography) |
+- 8 Build and configure Cascade Story Map, and host on 	website. (Geography) |
 +++
 ### Kentucky Black Freedom
 ##### Tools Utilized
