@@ -88,6 +88,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 **Jayber Crow**
 ![](images/jayber.jpg)
++++
 ### A Place on Earth?
 - Writing evokes a strong sense of place |
 - Land, and people's connection to it, is an essential part of the story...| 
