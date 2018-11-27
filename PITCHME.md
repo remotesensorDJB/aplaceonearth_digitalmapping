@@ -115,7 +115,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 
 **Jayber Crow**
-![](images/jayber.jpg | width=40) 
+![](images/jayber.jpg | width=4cof0) 
 +++
 
 ### A Place on Earth?
@@ -605,7 +605,8 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 ##### Lessons Learned
 **Be prepared**
 
-@css[fragment](People are giving up their whole day! Provide them the framework and tools they need)
+@css[fragment](People are giving up their whole day! Provide them the framework and tools they need.)
+
 @css[fragment](Don't forget the coffee!)
 +++
 
