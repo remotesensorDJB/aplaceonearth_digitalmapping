@@ -518,7 +518,99 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 ### National Safe Place Network
 - Many non-profit organizations have spatial data and analysis needs, but lack resources.
 - As GIS/Mapping professionals, we can help!
-- 
+- Volunteering time and expertise 
++++
+
+### National Safe Place Network
+- NPSN manages federal grants for runaway and homeless youth programs and homes.
+- Grantees all over the country
+- Can we map grantees and look at some macro-level statistics about funding (by state, region, congressional district)?
+- Serve in a web application for use by NPSN staff?
++++
+
+### National Safe Place Network
+![nspn_app](images/nspn_app.PNG) 
++++
+
+### National Safe Place Network
+- Ongoing partnership to map their data and host apps
+- Support their strategic initiatives
+- Provide training to staff
++++
+
+### National Safe Place Network
+##### Lessons Learned
+**Ask what questions people want answers to**
+@css[fragment](Don't feed them techno-babble about the software. Ask them to form some basic "where?" questions)
++++
+
+### National Safe Place Network
+##### Lessons Learned
+**Empower people. Help them take ownership of new ways of doing things**
+@css[fragment](Show someone how to do something, instead of giving them the final product)
++++
+
+### GIS Day Hackathon
+- GIS Day celebrated worldwide each November
+- How can GIS/digital mapping make a difference?
+- Lots of smart people with various capacities
+- Get them in a room together!
++++
+
+### GIS Day Hackathon
+**Provide space to let students, faculty, and community partners innovate, and create things that help address an issue.**
+@css[fragment](Immigrant and refugee support and resources?)
++++
+
+### GIS Day Hackathon
+![hack1](images/hack1.PNG)
++++
+
+### GIS Day Hackathon
+![hack2](images/hack2.PNG)
++++
+
+### GIS Day Hackathon
+![hack3](images/hack3.PNG)
++++
+
+### GIS Day Hackathon
+![immigrant](images/immigrant.PNG)
++++
+
+### GIS Day Hackathon
+![immigrant](images/immigrant_mobile.PNG)
++++
+
+### GIS Day Hackathon
+![immigrant](images/immigrant_sm.PNG)
++++
+
+### GIS Day Hackathon
+![hack news](images/hack_news1.PNG)
++++
+
+### GIS Day Hackathon
+![hack news](images/hack_news2.PNG)
++++
+
+### GIS Day Hackathon
+![hack news](images/hack_news3.PNG)
++++
+
+###GIS Day Hackathon
+##### Lessons Learned
+**Be prepared**
+
+@css[fragment](People are giving up their whole day! Provide them the framework and tools they need)
+@css[fragment](Don't forget the coffee!)
++++
+
+### GIS Day Hackathon
+##### Lessons Learned
+**Find champions for projects**
+
+@css[fragment](Key in on folks who are passionate and can keep things moving...)@css[fragment](even after the event is over!)
 +++
 
 #### The Plan
@@ -529,6 +621,10 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 - ~~Engaged Scholarship/Community Outreach~~
 - **Digital Mapping in the classroom**
 - Wrap-Up/More Resources
++++
+
+### Integrating Digital Mapping into Teaching
+- 
 
 @title[story map example 1]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
