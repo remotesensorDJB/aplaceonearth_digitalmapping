@@ -601,7 +601,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 ![hack news](images/hack_news3.png)
 +++
 
-###GIS Day Hackathon
+### GIS Day Hackathon
 ##### Lessons Learned
 **Be prepared**
 
