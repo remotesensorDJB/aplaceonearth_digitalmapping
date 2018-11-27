@@ -504,7 +504,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 - ~~Multidisciplinary Digital Mapping Initiatives~~
 - **Engaged Scholarship/Community Outreach**
 - Digital Mapping in the classroom
-- Wrap-Up/More Resources
+- More Resources
 +++
 
 ### Engaged Scholarship &
@@ -623,37 +623,78 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 - ~~Multidisciplinary Digital Mapping Initiatives~~
 - ~~Engaged Scholarship/Community Outreach~~
 - **Digital Mapping in the classroom**
-- Wrap-Up/More Resources
+- More Resources
 +++
 
 ### Integrating Digital Mapping into Teaching
-- 
 
+**How can digital mapping improve teaching outcomes?**
+
+@css[fragment](beyond traditional GIS/Remote Sensing courses) 
++++
+
+### Building on existing applications
+- Can Literary Louisville spur creativity in English courses?
+- In ecology courses, can our campus tree database facilitate a "living lab"?
++++
+
+### Campus Living Lab
+- Build phenology database and relate it to tree database
+- Each fall and spring, students record new observations of green up, budding, flowering, or color change.
+- Each observation follows the tree in the database. 
+- students use their phones with Collector to input data.
+- Another data collection app: [EpiCollect](http://www.epicollect.net/)
++++
+
+### Campus Living Lab
+![tree app](images/tree_app.jpg)
++++
+
+### Story Maps
+- For class projects in place of posters/group work
+- Fun and engaging for students
+- Teach basic digital skills (web-based GIS/Web Development)
+- Encourage critical thinking
+- [Story Maps 101](https://gitpitch.com/remoteSensorDJB/storymaps101): Workshop with live exercises in building Story Maps.
++++
+
+### Story Maps
 @title[story map example 1]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
 +++
+
+## Story Maps
 @title[story map example 2]
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=e7fd5854dbab435b944c27913df01980"></iframe>
 +++
+### Story Maps
 @title[story map example 3]
-<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=307e73fffa6f4206b9d356459998b607"></iframe>
+<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/MapJournal/index.html?appid=d7dc09ecf6644cd09c03afe60a833962"></iframe>
+---
+
+#### The Plan
+- ~~About Me~~
+- ~~A Place on Earth?~~
+- ~~GIS and Remote Sensing Review~~
+- ~~Multidisciplinary Digital Mapping Initiatives~~
+- ~~Engaged Scholarship/Community Outreach~~
+- ~~Digital Mapping in the classroom~~
+- **More Resources**
 +++
 
----
 @title[helpful links]
-##### Some useful links
-- http://www.louisville.edu/geogeo
+##### More Resources
 - https://www.esri.com
 - https://www.arcgis.com
 - https://storymaps.arcgis.com
 - https://storymap.knightlab.com/ (Open Source Story Mapping)
 - https://qgis.org/ (Open Source Desktop GIS)
+- https://libguides.trinity.edu/c.php?g=52526&p=339784 
 +++
+
 @title[questions?]
 ### Any questions? 
 Please email me at <djbidd01@louisville.edu>
 
 	
 
-
- 
