@@ -540,13 +540,15 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 ### National Safe Place Network
 ##### Lessons Learned
-**Ask what questions people want answers to**
+**What questions do people want answered?**
+
 @css[fragment](Don't feed them techno-babble about the software. Ask them to form some basic "where?" questions)
 +++
 
 ### National Safe Place Network
 ##### Lessons Learned
 **Empower people. Help them take ownership of new ways of doing things**
+
 @css[fragment](Show someone how to do something, instead of giving them the final product)
 +++
 
@@ -559,6 +561,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 
 ### GIS Day Hackathon
 **Provide space to let students, faculty, and community partners innovate, and create things that help address an issue.**
+
 @css[fragment](Immigrant and refugee support and resources?)
 +++
 
