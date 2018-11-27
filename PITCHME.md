@@ -529,7 +529,7 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 +++
 
 ### National Safe Place Network
-![nspn_app](images/nspn_app.PNG) 
+![nspn_app](images/nspn_app.png) 
 +++
 
 ### National Safe Place Network
@@ -563,39 +563,39 @@ http://centerforgis.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=f6f0
 +++
 
 ### GIS Day Hackathon
-![hack1](images/hack1.PNG)
+![hack1](images/hack1.png)
 +++
 
 ### GIS Day Hackathon
-![hack2](images/hack2.PNG)
+![hack2](images/hack2.png)
 +++
 
 ### GIS Day Hackathon
-![hack3](images/hack3.PNG)
+![hack3](images/hack3.png)
 +++
 
 ### GIS Day Hackathon
-![immigrant](images/immigrant.PNG)
+![immigrant](images/immigrant.png)
 +++
 
 ### GIS Day Hackathon
-![immigrant](images/immigrant_mobile.PNG)
+![immigrant](images/immigrant_mobile.png)
 +++
 
 ### GIS Day Hackathon
-![immigrant](images/immigrant_sm.PNG)
+![immigrant](images/immigrant_sm.png)
 +++
 
 ### GIS Day Hackathon
-![hack news](images/hack_news1.PNG)
+![hack news](images/hack_news1.png)
 +++
 
 ### GIS Day Hackathon
-![hack news](images/hack_news2.PNG)
+![hack news](images/hack_news2.png)
 +++
 
 ### GIS Day Hackathon
-![hack news](images/hack_news3.PNG)
+![hack news](images/hack_news3.png)
 +++
 
 ###GIS Day Hackathon
