@@ -115,7 +115,7 @@ A Place on Earth: Scholarship through Digital Mapping Initiatives
 +++
 
 **Jayber Crow**
-![](images/jayber.jpg)
+![](images/jayber.jpg | width=70) 
 +++
 
 ### A Place on Earth?
